@@ -30,6 +30,7 @@
   // #define VARIANT_DEBUG                    // Variant for debugging and checking the capabilities of the side-board
   // #define VARIANT_HOVERCAR                 // Variant for using the side-boards connected to the Hoverboard mainboard
   // #define VARIANT_HOVERBOARD               // Variant for using the side-boards connected to the Hoverboard mainboard
+#define VARIANT_ADC
 #endif
 
 /* ==================================== DO NOT TOUCH SETTINGS ==================================== */
